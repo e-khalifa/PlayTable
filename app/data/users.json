@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": "1589",
+      "firstName": "‪Esraa",
+      "lastName": "khalifa‬‏",
+      "email": "esraa@yahoo.com",
+      "password": "Hamada76",
+      "points": 90
+    },
+    {
+      "id": "c407",
+      "firstName": "‪Ahmed",
+      "lastName": "khalifa‬‏",
+      "email": "ahmed7@yahoo.com",
+      "password": "hamza",
+      "points": 20
+    },
+    {
+      "id": "ead1",
+      "firstName": "‪Mohamed",
+      "lastName": "khalifa‬‏",
+      "email": "mohamed0@yahoo.com",
+      "password": "h",
+      "points": 200
+    },
+    {
+      "id": "c736",
+      "firstName": "e",
+      "lastName": "k",
+      "email": "e@gmail.com",
+      "password": "hamza",
+      "points": 10
+    }
+  ]
+}
