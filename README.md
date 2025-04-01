@@ -1,5 +1,5 @@
 # PlayTable
-PlayTable is a modern gaming platform built with Next.js, Material-UI (MUI), and Zustand for state management. It allows users to play various games, track scores, and compete on a leaderboard. The backend uses JSON Server for mock data.
+PlayTable is a gaming platform built with Next.js, Material-UI (MUI), and Zustand for state management. It allows users to play various games, track scores, and compete on a leaderboard. The backend uses JSON Server for mock data.
 
 ## Table of Contents
 1. [📸 Demo](#-demo)
